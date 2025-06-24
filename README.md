@@ -4,19 +4,6 @@
 
 
 
-## Examples of MGR's Grounded Reasoning
-
-<img src="readme_images/eg1.png" alt="Example 1" width="800">
-
-<details>
-<summary>More examples (click to expand)</summary>
-
-<img src="readme_images/eg2.png" alt="Example 2" width="800">
-
-<img src="readme_images/eg3.png" alt="Example 3" width="800">
-
-</details>
-
 
 
 ## Setup
